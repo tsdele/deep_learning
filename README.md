@@ -8,7 +8,7 @@ Towards Implementation of multiple algorithms that solve various business use ca
 - Demand forecasting: Explore pytorch, tensorflow, and keras
  * Seq2seq models
  * Tensorflow fusion transformer (Encoding future known inputs)
- * CNN-DNN architectures (Explore causal dilation)
+ * CNN-DNN architectures (Explore causal dilation convolution)
  * Boosting models (Light GB, Gradient boosting)
   
 - Recommendations Engine
