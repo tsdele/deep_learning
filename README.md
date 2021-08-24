@@ -15,8 +15,9 @@ Towards Implementation of multiple algorithms that solve various business use ca
   * Deep and Cross Models
   * Matrix Factorization models
 - Market Basket 
+- Deduplication Algo
 
-
+https://devqa.io/install-git-mac-generate-ssh-keys/
 # References:
 
 * https://colab.research.google.com/github/Gurobi/modeling-examples/blob/master/agricultural_pricing/agricultural_pricing_gcl.ipynb
